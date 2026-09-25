@@ -46,24 +46,24 @@ export default function Home() {
             />
 
             {/* Content */}
-            {/* <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center gap-5">
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center gap-5">
 
               <h1 className="flex justify-center">
                 <Image
-                  src="/images/slide/slide_title.webp"
+                  src="/images/slide/slide_title1.png"
                   alt="slide title"
                   width={500}
                   height={61}
                   className="h-auto w-full max-w-55 md:max-w-75 lg:max-w-125 object-cover"
                 />
               </h1>
-              <Button
+              {/* <Button
                 variant="third"
                 className="hover:scale-105 h-auto font-bold rounded-[30px] text-[13px] md:text-sm lg:text-base py-2 px-5 md:px-7 md:py-2.5 hover:shadow-[0px_5px_20px_#c6a15b66] transition-all duration-300"
               >
                 게임하러 가기
-              </Button>
-            </div> */}
+              </Button> */}
+            </div>
           </div>
         </section>
 
